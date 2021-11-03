@@ -1,6 +1,6 @@
 # Movie Frame Prediction
 10개의 Serial Frame을 Input으로 받아 다음 10개의 Frame을 Predict하는 Project입니다.
-<img src = "https://github.com/focalpoint94/ML_MovieFramePrediction/blob/main/pics/Project.JPG?raw=true" width="50%" height="50%">
+<img src = "https://github.com/focalpoint94/ML_MovieFramePrediction/blob/main/pics/Project.JPG?raw=true" width="100%" height="100%">
 
 
 # Result
